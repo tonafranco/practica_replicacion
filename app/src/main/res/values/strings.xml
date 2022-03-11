@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP Imitacion de Interfaz</string>
+    <string name="correo">Email</string>
+    <string name="password">Password</string>
+    <string name="ftpassword">Forgot password?</string>
+    <string name="botonEntrar">SING IN</string>
+    <string name="register">Don´t have an account? Register Here!</string>
+</resources>
